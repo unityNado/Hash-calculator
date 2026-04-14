@@ -1,5 +1,6 @@
 RU:
 Краткое руководство пользователя
+
 1. Выбор режима работы
 В верхней части окна с помощью переключателей выберите, что вы хотите хэшировать:
 Текст — для обработки текстовой строки.
@@ -22,6 +23,7 @@ RU:
 
 EN:
 Brief User Guide
+
 1.Select Mode
 At the top of the window, use the radio buttons to select what you want to hash:
 Text — to process a text string.
