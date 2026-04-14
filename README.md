@@ -21,8 +21,9 @@ RU:
 
 
 EN:
-Select Mode
-1.At the top of the window, use the radio buttons to select what you want to hash:
+Brief User Guide
+1.Select Mode
+At the top of the window, use the radio buttons to select what you want to hash:
 Text — to process a text string.
 File — to calculate the checksum of a file.
 
